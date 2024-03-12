@@ -4,7 +4,7 @@
 
 # Setup Jason
 
-1. Βεβαιωθείτε ότι έχετε εγκαταστήσει το terminal /GitBash 
+1. Βεβαιωθείτε ότι έχετε εγκαταστήσει το terminal [GitBah](https://gitforwindows.org/)
 2. στο SourceForge κατεβάστε το jason-bin-3.2.0 αρχείο. Όταν το κατεβάσετε, αποσυμπιέστε το αρχείο.
 3. Ανοίξτε το Visual Studio Code και επιλέξτε ως terminal το GitBash.
 4. Στο terminal, γράψτε cd "your_jason_directory\bin" για να πάτε στο Jason directory's bin φάκελλο.
